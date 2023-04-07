@@ -64,6 +64,7 @@
 <script src="<?= base_url('assets/metronic') ?>/plugins/global/plugins.bundle.js"></script>
 <script src="<?= base_url('assets/metronic') ?>/plugins/custom/prismjs/prismjs.bundle.js"></script>
 <script src="<?= base_url('assets/metronic') ?>/js/scripts.bundle.js"></script>
+<script src="<?= base_url('assets/system') ?>/js/ajax.js"></script>
 <!--end::Global Theme Bundle-->
 <!--begin::Page Vendors(used by this page)-->
 <!--end::Page Vendors-->
